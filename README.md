@@ -22,8 +22,8 @@ The project is divided into two key stages:
      - Implement a Siamese Neural Network with **bidirectional LSTMs** to enhance contextual understanding.
 
 - **Model Evaluation**:
-  - Compare character-level and word-level models based on training, validation, and test datasets.
-  - Analyze performance trends across metrics, highlighting areas for improvement in generalization.
+  - Compare character-level and word-level models on training, validation, and test datasets.
+  - Analyze performance trends across metrics, identifying areas for improvement in generalization.
 
 - **Benchmarking**:
   - Establish baseline performance using classical regression methods, such as **Linear Regression** and **Random Forest**, with count vectorized text features.
@@ -31,5 +31,6 @@ The project is divided into two key stages:
 - **Performance Metrics**:
   - Track and compare **MAE**, **MSE**, and **RMSE** for all models.
   - Visualize learning curves for insights into model convergence and potential overfitting.
+
 
 
