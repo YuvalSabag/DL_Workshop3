@@ -1,4 +1,4 @@
-## **Deep Learning Workshop 3: Search Relevance with Siamese Neural Networks**
+## **Search Relevance with Siamese Neural Networks**
 
 This project focuses on enhancing product search relevance for **[Home Depot](https://www.kaggle.com/c/home-depot-product-search-relevance/data)** using **Siamese Neural Networks**. The primary objective is to align user search queries with relevant product descriptions, ensuring an accurate and efficient search experience while driving sales.  
 By incorporating both **character-level** and **word-level embeddings**, the model captures semantic relationships between search terms and product descriptions, enabling precise relevance score predictions.
